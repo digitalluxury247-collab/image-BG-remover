@@ -1,0 +1,5 @@
+{
+  "name": "Image BG Remover",
+  "description": "A powerful web application that uses AI to instantly remove the background from any image with a single click. Upload your image, and let the magic happen.",
+  "requestFramePermissions": []
+}
