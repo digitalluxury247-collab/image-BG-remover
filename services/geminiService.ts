@@ -31,7 +31,7 @@ export const removeBackground = async (base64Image: string, mimeType: string): P
             },
           },
           {
-            text: 'Remove the background of this image. The new background should be transparent.',
+            text: 'You are an expert at image segmentation. Your task is to remove the background from this image. Isolate the main subject and make the background transparent. Output only the resulting image.',
           },
         ],
       },
